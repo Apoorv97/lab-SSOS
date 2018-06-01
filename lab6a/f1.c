@@ -1,0 +1,9 @@
+#include<stdio.h>
+/*Basic C program
+ for comment line count testing */
+int main()
+{
+	printf("Hello World"); //print
+	return 0;//return main()
+}//End of file
+/xfghjkl;
